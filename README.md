@@ -6,4 +6,4 @@
 * Scrum Team Front-End
   * [lorem ipsum](#)
 * Scrum Team Back-End
-  * [lorem ipsum](#<>)
+  * [Saul Guerrero](https://github.com/SauloGpro)
