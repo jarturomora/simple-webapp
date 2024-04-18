@@ -6,4 +6,4 @@
 * Scrum Team Front-End
   * [lorem ipsum](#)
 * Scrum Team Back-End
-  * [lorem ipsum](#<>)
+  * [Pablo Rodera de Casas](https://github.com/PabloRodera)
