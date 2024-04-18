@@ -7,5 +7,4 @@
   * [lorem ipsum](#)
   * [José Miguel Martín Berlango](#)
 * Scrum Team Back-End
-  * [lorem ipsum](#)
-
+  * [Víctor Terroso](https://github.com/Vterroso)
