@@ -5,6 +5,7 @@
 * Scrum Master: [Jose Arturo Mora Soto](https://github.com/jarturomora)
 * Scrum Team Front-End
   * [lorem ipsum](#)
+  * [José Miguel Martín Berlango](#)
 * Scrum Team Back-End
   * [lorem ipsum](#)
 
