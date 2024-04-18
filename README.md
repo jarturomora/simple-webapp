@@ -6,4 +6,4 @@
 * Scrum Team Front-End
   * [lorem ipsum](#)
 * Scrum Team Back-End
-  * [lorem ipsum](#<>)
+  * [Mario San José](https://github.com/MarioSJ02)
