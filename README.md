@@ -7,3 +7,4 @@
   * [lorem ipsum](#)
 * Scrum Team Back-End
   * [lorem ipsum](#<>)
+David Muñoz del Sastre: https://github.com/DMSAranda	
