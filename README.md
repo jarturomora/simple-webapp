@@ -7,3 +7,4 @@
   * [lorem ipsum](#)
 * Scrum Team Back-End
   * [lorem ipsum](#<>)
+  * [Íñigo Carraté Gascón](https://github.com/InigoCarrate)
