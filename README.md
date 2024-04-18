@@ -4,7 +4,8 @@
 
 * Scrum Master: [Jose Arturo Mora Soto](https://github.com/jarturomora)
 * Scrum Team Front-End
-  * [lorem ipsum](#)
+  * [Ibrahim Riani Bernaoui](https://github.com/IbrahimRiani)
+
 * Scrum Team Back-End
   * [lorem ipsum](#)
 
