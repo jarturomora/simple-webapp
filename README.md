@@ -6,4 +6,4 @@
 * Scrum Team Front-End
   * [lorem ipsum](#)
 * Scrum Team Back-End
-  * [Salvador Garcia Domingo](#<>)
+  * [Salvador Garcia Domingo ](#<>)
