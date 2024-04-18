@@ -6,4 +6,4 @@
 * Scrum Team Front-End
   * [lorem ipsum](#)
 * Scrum Team Back-End
-  * [Manuel](https://github.com/pmafergon)
+  * [Pedro Manuel Fernández González](https://github.com/pmafergon)
