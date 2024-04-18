@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sumar Números</title>
+</head>
+<body>
+    <h1>Suma de Dos Números</h1>
+    <!-- El formulario utiliza el método GET para enviar los datos -->
+    <form action="http://127.0.0.1:5000/sumar" method="get">
+        <!-- Campo para el primer número -->
+        <label for="a">Número A:</label>
+        <input type="number" id="a" name="a" required><br><br>
+
+        <!-- Campo para el segundo número -->
+        <label for="b">Número B:</label>
+        <input type="number" id="b" name="b" required><br><br>
+
+        <!-- Botón para enviar el formulario -->
+        <button type="submit">Sumar</button>
+    </form>
+</body>
+</html>
