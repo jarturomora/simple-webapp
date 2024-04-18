@@ -7,3 +7,4 @@
   * [lorem ipsum](#)
 * Scrum Team Back-End
   * [lorem ipsum](#<>)
+  * [Lautaro Luna Lopez](https://github.com/LautaroLunaYT)
