@@ -6,6 +6,5 @@
 * Scrum Team Front-End
   * [lorem ipsum](#)
 * Scrum Team Back-End
-  * [lorem ipsum](#<>)
-  jjheras
+  * [lorem ipsum](#)
 
