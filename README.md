@@ -6,4 +6,4 @@
 * Scrum Team Front-End
   * [lorem ipsum](#)
 * Scrum Team Back-End
-  * [Felipe Izquierdo Romero ](https://github.com/FilipSMB)
+  * [Felipe Izquierdo Romero ](https://github.com/FelipeIZR)
