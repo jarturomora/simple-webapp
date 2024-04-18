@@ -2,8 +2,8 @@
 
 ## Equipo de Desarrollo
 
-* Scrum Master: [Jose Arturo Mora Soto](https://github.com/jarturomora)
-* Scrum Team Front-End
-  * [lorem ipsum](#)
-* Scrum Team Back-End
-  * [lorem ipsum](#<>)
+- Scrum Master: [Jose Arturo Mora Soto](https://github.com/jarturomora)
+- Scrum Team Front-End
+  - [lorem ipsum](#)
+- Scrum Team Back-End
+  - [Silvia Kenaan Mulero](https://github.com/BigTogu)
