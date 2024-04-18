@@ -8,4 +8,5 @@
   * [Elena Fernandez Sanjulian](https://github.com/elena992)
   * [José Miguel Martín Berlango](#)
 * Scrum Team Back-End
-  * [lorem ipsum](#)
+  * [Antonio Martínez Flores](https://github.com/AntonioXA)
+
