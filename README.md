@@ -1,6 +1,6 @@
 # simple-webapp: Ejemplo de una aplicación web con HTML y Python
 
-## Equipo de Desarrollo
+## Equipo de Desarrollo[lorem ipsum](#<>)
 
 - Scrum Master: [José Arturo Mora Soto](https://github.com/jarturomora)
 - Scrum Team Front-End
