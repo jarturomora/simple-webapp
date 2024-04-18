@@ -10,4 +10,4 @@
 * Scrum Team Back-End
   * [Myroslava Farion](https://github.com/MyroslavaF)
   * [lorem ipsum](#)
-
+  * [Ermes Liriano](https://github.com/ermesliriano)
