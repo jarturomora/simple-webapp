@@ -7,5 +7,5 @@
   * [lorem ipsum](#)
 * Scrum Team Back-End
   * [lorem ipsum](#<>)
-  jjheras
+  rocio lauriño ruiz
 
